@@ -1,8 +1,8 @@
-#Java Algorithm and Data Structure (Java数据结构与算法)
+# Java Algorithm and Data Structure (Java数据结构与算法)
 
-##Part 1. 排序
+## Part 1. 排序
 
-###Selection Sort
+### Selection Sort
 
 - 特点：每次选择最小值，分有序区和无序区，从无序区遍历找出最小的元素移动到有序区。O(N^2) time.
 ```Java
